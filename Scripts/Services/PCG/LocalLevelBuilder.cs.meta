@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5ff42a45a3e34a14dbb3d858b4b8f248
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_GridPrefab: {fileID: 3083410506925103424, guid: bc1c90fdb32286a4b82ed5caa7796f7d,
+      type: 3}
+  - TileFloatingGround: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
