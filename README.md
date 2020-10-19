@@ -10,12 +10,12 @@ This project is licensed under the MIT License.
 <details>
   <summary>Click to expand</summary>
 
-  ![](presentation/1.jpeg)
-  ![](presentation/2.jpeg)
-  ![](presentation/3.jpeg)
-  ![](presentation/4.jpeg)
-  ![](presentation/5.jpeg)
-  ![](presentation/6.jpeg)
-  ![](presentation/7.jpeg)
-  ![](presentation/8.jpeg)
+<img src="presentation/1.jpeg" width="400">
+<img src="presentation/2.jpeg" width="400"><br /><br /><br />
+<img src="presentation/3.jpeg" width="400">
+<img src="presentation/4.jpeg" width="400"><br /><br /><br />
+<img src="presentation/5.jpeg" width="400">
+<img src="presentation/6.jpeg" width="400"><br /><br /><br />
+<img src="presentation/7.jpeg" width="400">
+<img src="presentation/8.jpeg" width="400">
 </details>
