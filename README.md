@@ -15,4 +15,7 @@ This project is licensed under the MIT License.
   ![](presentation/3.png)
   ![](presentation/4.png)
   ![](presentation/5.png)
+  ![](presentation/6.png)
+  ![](presentation/7.png)
+  ![](presentation/8.png)
 </details>
